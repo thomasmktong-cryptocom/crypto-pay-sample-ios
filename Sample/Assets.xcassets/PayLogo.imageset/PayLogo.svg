@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1536"
+   height="1536"
+   viewBox="0 0 1536 1536"
+   version="1.1"
+   id="svg870"
+   sodipodi:docname="Crypto.com_Blue Pay.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\manki\bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Crypto.com_Blue Pay</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview872"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="631.82231"
+     inkscape:cy="780.54294"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg870" />
+  <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+  <title
+     id="title833">Crypto.com_Blue Pay</title>
+  <desc
+     id="desc835">Created with Sketch.</desc>
+  <defs
+     id="defs848">
+    <polygon
+       id="path-1"
+       points="42.448,21.4202 29.3784,21.4202 29.3784,5.1282 42.448,5.1282 " />
+    <linearGradient
+       x1="0.50000894"
+       y1="0.89212203"
+       x2="0.50000894"
+       y2="0.1054197"
+       id="linearGradient-3">
+      <stop
+         stop-color="#002D74"
+         offset="0%"
+         id="stop838" />
+      <stop
+         stop-color="#002D74"
+         stop-opacity="0"
+         offset="100%"
+         id="stop840" />
+    </linearGradient>
+    <linearGradient
+       x1="0.5000158"
+       y1="0.89212197"
+       x2="0.5000158"
+       y2="0.1054196"
+       id="linearGradient-4">
+      <stop
+         stop-color="#002D74"
+         stop-opacity="0"
+         offset="0%"
+         id="stop843" />
+      <stop
+         stop-color="#002D74"
+         offset="100%"
+         id="stop845" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-3"
+       id="linearGradient876"
+       x1="13.96084"
+       y1="22.365702"
+       x2="13.96084"
+       y2="3.1119812"
+       gradientTransform="scale(0.65805007,1.5196412)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-3"
+       id="linearGradient878"
+       x1="13.96084"
+       y1="22.365702"
+       x2="13.96084"
+       y2="3.1119812"
+       gradientTransform="scale(0.65805007,1.5196412)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-4"
+       id="linearGradient880"
+       x1="12.236929"
+       y1="22.364901"
+       x2="12.236929"
+       y2="3.1118674"
+       gradientTransform="scale(0.65802655,1.5196955)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-4"
+       id="linearGradient882"
+       x1="12.236929"
+       y1="22.364901"
+       x2="12.236929"
+       y2="3.1118674"
+       gradientTransform="scale(0.65802655,1.5196955)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="Crypto.com_Blue-Pay"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(17.949194,0,0,17.949194,2.2264637,405.17245)">
+    <g
+       id="CRYPTO.COM-LOGO">
+      <g
+         id="Pay"
+         transform="translate(42,11.2355)">
+        <g
+           id="Group-15">
+          <path
+             d="M 7.172,3.6697 H 3.694 v 6.129 h 3.478 c 2.261,0 3.672,-1.24 3.672,-3.064 0,-2.019 -1.435,-3.065 -3.672,-3.065 m -0.098,8.829 h -3.38 v 5.472 H 0.703 V 0.9457 h 6.712 c 3.965,0 6.469,2.238 6.469,5.716 0,3.843 -3.064,5.837 -6.81,5.837"
+             id="Fill-9"
+             fill="#002d74" />
+          <path
+             d="m 24.6798,12.5232 c -0.753,-0.292 -1.799,-0.511 -2.943,-0.511 -1.849,0 -2.942,0.754 -2.942,2.067 v 0.049 c 0,1.216 1.093,1.897 2.48,1.897 1.946,0 3.405,-1.094 3.405,-2.699 z m -0.073,5.448 v -1.581 c -0.876,1.046 -2.213,1.848 -4.159,1.848 -2.432,0 -4.573,-1.386 -4.573,-3.964 v -0.049 c 0,-2.772 2.214,-4.135 5.205,-4.135 1.557,0 2.555,0.219 3.551,0.536 v -0.317 c 0,-1.775 -1.118,-2.748 -3.161,-2.748 -1.436,0 -2.505,0.316 -3.673,0.803 l -0.803,-2.36 c 1.411,-0.632 2.797,-1.07 4.889,-1.07 3.794,0 5.643,1.995 5.643,5.424 v 7.613 z"
+             id="Fill-11"
+             fill="#002d74" />
+          <mask
+             id="mask-2"
+             fill="#ffffff">
+            <use
+               xlink:href="#path-1"
+               id="use852"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+          </mask>
+          <g
+             id="Clip-14" />
+          <polygon
+             id="Fill-13"
+             fill="#002d74"
+             mask="url(#mask-2)"
+             points="36.0294,14.6162 39.5274,5.1282 42.4484,5.1282 36.2154,21.4202 33.3564,21.4202 34.7184,17.9742 29.3784,5.1282 32.3854,5.1282 " />
+        </g>
+      </g>
+      <g
+         id="Lion-Head"
+         transform="translate(0.878788,0.7977)">
+        <g
+           id="g865">
+          <path
+             d="M 16.1044,0.80882424 4.6060606e-4,10.106158 V 28.701976 L 16.1044,37.999309 32.208339,28.701976 V 10.106158 Z m 0,0 L 4.6060606e-4,10.106158 V 28.701976 L 16.1044,37.999309 32.208339,28.701976 V 10.106158 Z"
+             id="Fill-21"
+             fill="#ffffff" />
+          <path
+             d="m 22.447867,30.722424 h -2.283455 l -2.734848,-2.518363 v -1.280485 l 2.836182,-2.721031 v -4.294 l 3.711333,-2.414727 4.234121,3.186243 z M 12.975503,23.94 l 0.422606,-4.046424 -1.38297,-3.608849 h 8.206849 L 18.870109,19.893576 19.261624,23.92503 16.10417,23.94 Z m 1.863152,4.264061 -2.736,2.547151 H 9.7892606 L 3.9982909,20.680061 8.2462303,17.522606 12.001321,19.908545 v 4.294 l 2.837334,2.721031 z M 9.7466546,8.8482424 H 22.42023 l 1.528061,6.4611516 H 8.2750182 Z M 16.10417,0.80836364 2.3030303e-4,10.105697 V 28.701515 L 16.10417,38 32.209261,28.701515 V 10.105697 Z"
+             id="Fill-23"
+             fill="#002d74" />
+          <g
+             id="Gradient-lion-R"
+             transform="translate(14.969697)"
+             fill="url(#linearGradient-3)"
+             style="fill:url(#linearGradient878)">
+            <path
+               d="M 7.4779394,30.722424 H 5.1944848 L 2.4596364,28.204061 v -1.280485 l 2.8373333,-2.721031 v -4.294 l 3.7101818,-2.414727 4.2352725,3.186243 z M 1.1342424,0.80836364 V 8.8482424 H 7.450303 L 8.9783636,15.309394 H 1.1342424 v 0.975333 H 5.2532121 L 3.9001818,19.893576 4.2928485,23.92503 1.1342424,23.94 V 38 L 17.239333,28.701515 V 10.105697 Z"
+               id="Fill-25"
+               style="mix-blend-mode:multiply;fill:url(#linearGradient876)" />
+          </g>
+          <g
+             id="Gradient-lion-L"
+             fill="url(#linearGradient-4)"
+             style="fill:url(#linearGradient882)">
+            <path
+               d="m 14.838424,28.204061 -2.736,2.547151 H 9.7890303 L 3.9980606,20.680061 8.246,17.522606 l 3.755091,2.385939 v 4.294 l 2.837333,2.721031 z m -1.862,-4.264061 0.421455,-4.046424 -1.381818,-3.608849 h 4.087878 V 15.309394 H 8.2759394 L 9.7464242,8.8482424 H 16.103939 V 0.80836364 L 0,10.105697 V 28.701515 L 16.103939,38 V 23.94 Z"
+               id="Fill-28"
+               style="mix-blend-mode:multiply;fill:url(#linearGradient880)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
